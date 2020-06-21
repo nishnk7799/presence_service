@@ -30,7 +30,9 @@ Quit the server with CTRL-BREAK.
 Admin Details :  Username - nvishi7
                  Pass: 123456789
 
-Open the following link after connecting : http://127.0.0.1:8000/reg/
+Open the following link after connecting : http://127.0.0.1:8000/
+
+![dashboard](/screenshot/dash1.jpg?raw=true "Optional Title")
 
 
 
