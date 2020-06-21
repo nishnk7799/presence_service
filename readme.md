@@ -9,12 +9,12 @@ Django ,
 Pillows,
 Requests
 
-
+For easy usage switch to PyCharm IDE
 
 open the command prompt
 1) Go to the file director
 
-2)go to the "assign1" file
+2)go to the "assign1" folder
 
 3)/assign1/manage.py runserver
 
