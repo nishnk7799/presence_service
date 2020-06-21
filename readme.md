@@ -34,8 +34,23 @@ Open the following link after connecting : http://127.0.0.1:8000/
 
 Check out the screenshots in the screenshot folder!!!
 
+Registrations page
+
+   ![Alt text](https://github.com/nishnk7799/presence_service/blob/master/screenshots/reg.JPG "Registration")
+   
+Signin Page
+
+   ![Alt text](https://github.com/nishnk7799/presence_service/blob/master/screenshots/sign.JPG "SignIn")
+
 Dashboard
    ![Alt text](https://github.com/nishnk7799/presence_service/blob/master/screenshots/dash1.JPG "Dashboard")
+   
+   ![Alt text](https://github.com/nishnk7799/presence_service/blob/master/screenshots/dash2.png "Dashboard")
+   
+   ![Alt text](https://github.com/nishnk7799/presence_service/blob/master/screenshots/dash3.png "Dashboard")
+   
+   ![Alt text](https://github.com/nishnk7799/presence_service/blob/master/screenshots/dash4.png "Dashboard")
+   
 
 
 
