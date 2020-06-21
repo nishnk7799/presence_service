@@ -1,0 +1,13 @@
+{
+    "version": 1,
+    "name": "navigus-assignment",
+    "builds": [{
+        "src": "asign1/wsgi.py",
+        "use": "@ardnt/now-python-wsgi",
+        "config": { "maxLambdaSize": "100mb" }
+    }],
+    "routes": [{
+        "src": "/(.*)",
+        "dest": "assign1/wsgi.py"
+    }]
+}
