@@ -55,7 +55,7 @@ Online users
    ![Alt text](https://github.com/nishnk7799/presence_service/blob/master/screenshots/dash4.png "Dashboard")
    
 If Unauthorise user tries to access
-   ![Alt text](https://github.com/nishnk7799/presence_service/blob/master/screenshots/error.JPG "Error")
+   ![Alt text](https://github.com/nishnk7799/presence_service/blob/master/screenshots/error.png "Error")
 
 
 
