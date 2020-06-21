@@ -34,7 +34,7 @@ Open the following link after connecting : http://127.0.0.1:8000/
 
 Check out the screenshots in the screenshot folder!!!
 
-![Dashboard](/master/screenshorts/dash1.jpg?raw=true "Optional Title")
+![Dashboard](/master/screenshorts/dash1.jpg?raw=false "Optional Title")
 
 
 
