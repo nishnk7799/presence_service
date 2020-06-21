@@ -44,11 +44,14 @@ Signin Page
 
 Dashboard
    ![Alt text](https://github.com/nishnk7799/presence_service/blob/master/screenshots/dash1.JPG "Dashboard")
-   
+
+All Login Users
    ![Alt text](https://github.com/nishnk7799/presence_service/blob/master/screenshots/dash2.png "Dashboard")
-   
+
+Online users
    ![Alt text](https://github.com/nishnk7799/presence_service/blob/master/screenshots/dash3.png "Dashboard")
    
+Offline users
    ![Alt text](https://github.com/nishnk7799/presence_service/blob/master/screenshots/dash4.png "Dashboard")
    
 
