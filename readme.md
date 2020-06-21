@@ -32,7 +32,7 @@ Admin Details :  Username - nvishi7
 
 Open the following link after connecting : http://127.0.0.1:8000/
 
-![dashboard](/screenshot/dash1.jpg?raw=true "Optional Title")
+Check out the screenshots in the screenshot folder!!!
 
 
 
