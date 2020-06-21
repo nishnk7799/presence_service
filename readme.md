@@ -34,12 +34,8 @@ Open the following link after connecting : http://127.0.0.1:8000/
 
 Check out the screenshots in the screenshot folder!!!
 
-
-
-
-
-
-
+Dashboard
+   ![Alt text](https://github.com/nishnk7799/presence_service/blob/master/screenshots/dash1.JPG "Dashboard")
 
 
 
