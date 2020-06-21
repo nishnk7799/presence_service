@@ -34,6 +34,12 @@ Open the following link after connecting : http://127.0.0.1:8000/
 
 Check out the screenshots in the screenshot folder!!!
 
+Screenshots are captured on the local system.
+
+Here is the working app link, Nut unfortunatly heroku is not supportinng the sqlite3 so there
+is some compatibility issues in the app for database therefore its not working properly.
+link: https://nishnk79.herokuapp.com/
+
 Registrations page
 
    ![Alt text](https://github.com/nishnk7799/presence_service/blob/master/screenshots/reg.JPG "Registration")
