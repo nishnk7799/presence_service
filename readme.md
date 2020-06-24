@@ -1,3 +1,10 @@
+The site is live at::::----  http://nvishi7.pythonanywhere.com/login/
+
+
+Test login id and pass:::  email:- test@gmail.com
+                           password:- test123
+
+
 Navigus Assignment
 
 This application will let the admin see who is viewing the following document currently . The "See Details" button will let the user see the
@@ -36,9 +43,6 @@ Check out the screenshots in the screenshot folder!!!
 
 Screenshots are captured on the local system.
 
-Here is the working app link, Nut unfortunatly heroku is not supportinng the sqlite3 so there
-is some compatibility issues in the app for database therefore its not working properly.
-link: https://nishnk79.herokuapp.com/
 
 Registrations page
 
