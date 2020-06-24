@@ -1,6 +1,8 @@
 The site is live at::::----  http://nvishi7.pythonanywhere.com/login/
 
 
+To have a direct view of the dasboard is :::---- http://nvishi7.pythonanywhere.com/dashboard/
+
 Test login id and pass:::  email:- test@gmail.com
                            password:- test123
 
